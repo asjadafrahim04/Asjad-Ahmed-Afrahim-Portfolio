@@ -156,7 +156,7 @@
     .skill-box {
       background: white;
       color: var(--dark);
-      padding: 0.7rem 1rem;
+      padding: 1rem 2rem;
       border-radius: 8px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.05);
       font-size: 1rem;
